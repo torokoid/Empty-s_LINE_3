@@ -85,7 +85,7 @@ body::before {
 <a href="20201205_001.png" data-lightbox="abc"><img src="20201205_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20201205_002.png" data-lightbox="abc"><img src="20201205_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20201205_003.png" data-lightbox="abc"><img src="20201205_003.png" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">19:33</span></h3>
+<h3><span class="white">2020年12月5日、19:33</span></h3>
 <a href="20201205_015.png" data-lightbox="abc"><img src="20201205_015.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">19:40</span></h3>
 <a href="20201205_016.png" data-lightbox="abc"><img src="20201205_016.png" alt="サンプル画像" width="900" /></a>
