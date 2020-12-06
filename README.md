@@ -71,7 +71,7 @@ body::before {
 <p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>&gt;On LINE飲み会</p></div>
 <p align="right">2019、河口湖忘年会</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="qr__.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="qr___.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
@@ -91,9 +91,10 @@ body::before {
 <a href="20201205_009.png" data-lightbox="abc"><img src="20201205_009.png" alt="サンプル画像" width="900" /></a>
 <a href="20201205_010.png" data-lightbox="abc"><img src="20201205_010.png" alt="サンプル画像" width="900" /></a>
 <a href="20201205_011.png" data-lightbox="abc"><img src="20201205_011.png" alt="サンプル画像" width="900" /></a>
+<a href="20201205_012.png" data-lightbox="abc"><img src="20201205_012.png" alt="サンプル画像" width="900" /></a>
 <a href="20201205_004.png" data-lightbox="abc"><img src="20201205_004.png" alt="サンプル画像" width="900" /></a>
 <a href="20201205_005.png" data-lightbox="abc"><img src="20201205_005.png" alt="サンプル画像" width="900" /></a>
-<a href="20201205_012.png" data-lightbox="abc"><img src="20201205_012.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20201205_013.png" data-lightbox="abc"><img src="20201205_013.png" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
