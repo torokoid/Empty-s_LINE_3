@@ -101,6 +101,8 @@ body::before {
 <a href="20201205_005.png" data-lightbox="abc"><img src="20201205_005.png" alt="サンプル画像" width="900" /></a>
 
 <a href="20201205_013.png" data-lightbox="abc"><img src="20201205_013.png" alt="サンプル画像" width="900" /></a>
+<a href="20201205_014.png" data-lightbox="abc"><img src="20201205_014.png" alt="サンプル画像" width="900" /></a>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
