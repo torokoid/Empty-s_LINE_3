@@ -75,6 +75,34 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
+	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月31日、LINE呑み会で忘年会〜年越し!!!</marquee></span></h2>
+	
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+
+<a href="20201231_001.png" data-lightbox="abc"><img src="20201231_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_002.png" data-lightbox="abc"><img src="20201231_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_003.png" data-lightbox="abc"><img src="20201231_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_004.png" data-lightbox="abc"><img src="20201231_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_005.png" data-lightbox="abc"><img src="20201231_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_006.png" data-lightbox="abc"><img src="20201231_006.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_007.png" data-lightbox="abc"><img src="20201231_007.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_008.png" data-lightbox="abc"><img src="20201231_008.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_009.png" data-lightbox="abc"><img src="20201231_009.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_010.png" data-lightbox="abc"><img src="20201231_010.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_011.png" data-lightbox="abc"><img src="20201231_011.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_012.png" data-lightbox="abc"><img src="20201231_012.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_013.png" data-lightbox="abc"><img src="20201231_013.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_014.png" data-lightbox="abc"><img src="20201231_014.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_015.png" data-lightbox="abc"><img src="20201231_015.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_016.png" data-lightbox="abc"><img src="20201231_016.png" alt="サンプル画像" width="900" /></a>
+<a href="20201231_017.png" data-lightbox="abc"><img src="20201231_017.png" alt="サンプル画像" width="900" /></a>
+<section><h4><span class="red">2021年01月01日</span><span class="white"><br>ここから年越し</span></h4></section>
+<a href="20210101_001.png" data-lightbox="abc"><img src="20210101_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20210101_002.png" data-lightbox="abc"><img src="20210101_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20210101_003.png" data-lightbox="abc"><img src="20210101_003.png" alt="サンプル画像" width="900" /></a>
+<br><br>
+	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖からLINE呑み会に変更!!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
