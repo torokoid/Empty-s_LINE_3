@@ -77,7 +77,7 @@ body::before {
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年1月16日、LINE呑み会で新年会!!!</marquee></span></h2>
 
-<h3><span class="white">今回も8名参加で大盛況。盛岡〜岡山間は１２００kmの道のり！</span></h3>
+<h3><span class="white">今回は8名参加。盛岡〜岡山間は１２００kmの道のりでした！</span></h3>
 
 <a href="20210116_020.jpg" data-lightbox="abc"><img src="20210116_020.jpg" alt="サンプル画像" width="900" /></a>
 
