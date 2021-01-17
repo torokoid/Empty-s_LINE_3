@@ -77,7 +77,7 @@ body::before {
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年1月16日、LINE呑み会で新年会!!!</marquee></span></h2>
 
-<h3><span class="white">今回は10.5名参加(0.5名はキミりんの息子)。盛岡〜岡山間は１２００kmの道のりでした！<br>ムッチーと西村は前回参加メンバー。</span></h3>
+<h3><span class="white">今回は10.5名参加(0.5名はキミりんの息子)。盛岡〜岡山間は１２００kmの道のりでした！<br>ムッチーと西村、ミキちゃんは前回参加メンバー。</span></h3>
 
 <a href="20210116_020.jpg" data-lightbox="abc"><img src="20210116_020.jpg" alt="サンプル画像" width="900" /></a>
 
