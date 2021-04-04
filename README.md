@@ -78,7 +78,7 @@ body::before {
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年4月3日、LINEでお花見会!!!</marquee></span></h2>
 
-<h3><span class="white">今回は1１名参加。前回と同じく、北端・盛岡〜西端・岡山でした！</span></h3>
+<h3><span class="white">今回は１１名参加。前回と同じく、北端・盛岡〜西端・岡山でした！</span></h3>
 
 <a href="20210403_000.png" data-lightbox="abc"><img src="20210403_000.png" alt="サンプル画像" width="900" /></a>
 
