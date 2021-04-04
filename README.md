@@ -93,6 +93,8 @@ body::before {
 <a href="20210403_007.JPG" data-lightbox="abc"><img src="20210403_007.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_008.JPG" data-lightbox="abc"><img src="20210403_008.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_009.JPG" data-lightbox="abc"><img src="20210403_009.JPG" alt="サンプル画像" width="300" /></a>
+<br><br>
+<h3><span class="white">ここから後半戦。</span></h3>
 <a href="20210403_010.JPG" data-lightbox="abc"><img src="20210403_010.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_011.JPG" data-lightbox="abc"><img src="20210403_011.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_012.JPG" data-lightbox="abc"><img src="20210403_012.JPG" alt="サンプル画像" width="300" /></a>
@@ -136,8 +138,6 @@ body::before {
 <a href="20210116_008.jpg" data-lightbox="abc"><img src="20210116_008.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210116_009.jpg" data-lightbox="abc"><img src="20210116_009.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210116_010.jpg" data-lightbox="abc"><img src="20210116_010.jpg" alt="サンプル画像" width="900" /></a>
-<br><br>
-<h3><span class="white">ここから後半戦。</span></h3>
 <a href="20210116_011.jpg" data-lightbox="abc"><img src="20210116_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210116_012.jpg" data-lightbox="abc"><img src="20210116_012.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210116_013.jpg" data-lightbox="abc"><img src="20210116_013.jpg" alt="サンプル画像" width="900" /></a>
