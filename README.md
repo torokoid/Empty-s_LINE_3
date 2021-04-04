@@ -113,7 +113,7 @@ body::before {
 <a href="20210403_022.JPG" data-lightbox="abc"><img src="20210403_022.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_023.JPG" data-lightbox="abc"><img src="20210403_023.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_024.JPG" data-lightbox="abc"><img src="20210403_024.JPG" alt="サンプル画像" width="300" /></a>
-<h3><span class="white">LINE経由で聞いても、違いはわかりまシェ〜ん (>_<)</span></h3>
+<h3><span class="white">しかし、LINE経由で聞いても、違いはわかりまシェ〜ん (>_<)</span></h3>
 <a href="20210403_025.JPG" data-lightbox="abc"><img src="20210403_025.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_026.JPG" data-lightbox="abc"><img src="20210403_026.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_027.JPG" data-lightbox="abc"><img src="20210403_027.JPG" alt="サンプル画像" width="300" /></a>
