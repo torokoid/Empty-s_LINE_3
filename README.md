@@ -78,11 +78,11 @@ body::before {
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年4月3日、LINEでお花見会!!!</marquee></span></h2>
 
-<h3><span class="white">今回は1１名参加。前回と同じく、北端盛岡〜西端岡山間は１２００kmの道のりでした！</span></h3>
+<h3><span class="white">今回は1１名参加。前回と同じく、北端・盛岡〜西端・岡山でした！</span></h3>
 
 <a href="20210403_000.png" data-lightbox="abc"><img src="20210403_000.png" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<h3><span class="white">↓ 画像が多めなので小さく表示しました。クリックで拡大、スライドショー表示します。</span></h3>
 	
 <a href="20210403_001.JPG" data-lightbox="abc"><img src="20210403_001.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_002.JPG" data-lightbox="abc"><img src="20210403_002.JPG" alt="サンプル画像" width="300" /></a>
