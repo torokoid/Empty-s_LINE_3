@@ -109,6 +109,7 @@ body::before {
 <a href="20210403_019.JPG" data-lightbox="abc"><img src="20210403_019.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_020.JPG" data-lightbox="abc"><img src="20210403_020.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_021.JPG" data-lightbox="abc"><img src="20210403_021.JPG" alt="サンプル画像" width="300" /></a>
+<h3><span class="white">ムッチーの真空管式ステレオに火入れ。</span></h3>
 <a href="20210403_022.JPG" data-lightbox="abc"><img src="20210403_022.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_023.JPG" data-lightbox="abc"><img src="20210403_023.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_024.JPG" data-lightbox="abc"><img src="20210403_024.JPG" alt="サンプル画像" width="300" /></a>
