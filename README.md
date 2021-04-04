@@ -92,14 +92,16 @@ body::before {
 <a href="20210403_006.JPG" data-lightbox="abc"><img src="20210403_006.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_007.JPG" data-lightbox="abc"><img src="20210403_007.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_008.JPG" data-lightbox="abc"><img src="20210403_008.JPG" alt="サンプル画像" width="300" /></a>
+<h3><span class="white">キミリン離脱、股さんも離脱。</span></h3>
 <a href="20210403_009.JPG" data-lightbox="abc"><img src="20210403_009.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_010.JPG" data-lightbox="abc"><img src="20210403_010.JPG" alt="サンプル画像" width="300" /></a>
 <br><br>
-<h3><span class="white">ここから後半戦。</span></h3>
+<h3><span class="white">ここから後半戦。<br>ノビタはおじさんが亡くなったとのことで遅れて参入。</span></h3>
 <a href="20210403_011.JPG" data-lightbox="abc"><img src="20210403_011.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_012.JPG" data-lightbox="abc"><img src="20210403_012.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_013.JPG" data-lightbox="abc"><img src="20210403_013.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_014.JPG" data-lightbox="abc"><img src="20210403_014.JPG" alt="サンプル画像" width="300" /></a>
+<h3><span class="white">貴志参入。</span></h3>
 <a href="20210403_015.JPG" data-lightbox="abc"><img src="20210403_015.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_016.JPG" data-lightbox="abc"><img src="20210403_016.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210403_017.JPG" data-lightbox="abc"><img src="20210403_017.JPG" alt="サンプル画像" width="300" /></a>
