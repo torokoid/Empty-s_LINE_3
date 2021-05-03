@@ -90,7 +90,9 @@ body::before {
 <a href="20210502_009.JPG" data-lightbox="abc"><img src="20210502_009.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_010.JPG" data-lightbox="abc"><img src="20210502_010.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_011.JPG" data-lightbox="abc"><img src="20210502_011.JPG" alt="サンプル画像" width="300" /></a>
-<a href="20210502_012.JPG" data-lightbox="abc"><img src="20210502_012.JPG" alt="サンプル画像" width="300" /></a>
+
+<h3><span class="white">東海林の頭が切れるな〜と思ったら、スマホが縦？！</span></h3>
+<a href="20210502_012.JPG" data-lightbox="abc"><img src="20210502_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_013.JPG" data-lightbox="abc"><img src="20210502_013.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_014.JPG" data-lightbox="abc"><img src="20210502_014.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_015.JPG" data-lightbox="abc"><img src="20210502_015.JPG" alt="サンプル画像" width="300" /></a>
@@ -106,12 +108,13 @@ body::before {
 
 <a href="20210502_019.JPG" data-lightbox="abc"><img src="20210502_019.JPG" alt="サンプル画像" width="300" /></a>
 <h3><span class="white">貴志の部屋、初公開。</span></h3>
-<a href="20210502_020.JPG" data-lightbox="abc"><img src="20210502_020.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210502_020.JPG" data-lightbox="abc"><img src="20210502_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_021.JPG" data-lightbox="abc"><img src="20210502_021.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_022.JPG" data-lightbox="abc"><img src="20210502_022.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_023.JPG" data-lightbox="abc"><img src="20210502_023.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_024.JPG" data-lightbox="abc"><img src="20210502_024.JPG" alt="サンプル画像" width="300" /></a>
-<a href="20210502_025.JPG" data-lightbox="abc"><img src="20210502_025.JPG" alt="サンプル画像" width="300" /></a>
+<h3><span class="white">孫写真です。</span></h3>
+<a href="20210502_025.JPG" data-lightbox="abc"><img src="20210502_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_026.JPG" data-lightbox="abc"><img src="20210502_026.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_027.JPG" data-lightbox="abc"><img src="20210502_027.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_028.JPG" data-lightbox="abc"><img src="20210502_028.JPG" alt="サンプル画像" width="300" /></a>
