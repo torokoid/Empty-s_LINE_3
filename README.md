@@ -107,7 +107,7 @@ body::before {
 
 
 <a href="20210502_019.JPG" data-lightbox="abc"><img src="20210502_019.JPG" alt="サンプル画像" width="300" /></a>
-<h3><span class="white">貴志の部屋、初公開。</span></h3>
+<!--<h3><span class="white">貴志の部屋、初公開。</span></h3>-->
 <a href="20210502_020.JPG" data-lightbox="abc"><img src="20210502_020.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_021.JPG" data-lightbox="abc"><img src="20210502_021.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_022.JPG" data-lightbox="abc"><img src="20210502_022.JPG" alt="サンプル画像" width="300" /></a>
