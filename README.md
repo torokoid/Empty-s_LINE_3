@@ -91,7 +91,7 @@ body::before {
 <a href="20210502_010.JPG" data-lightbox="abc"><img src="20210502_010.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_011.JPG" data-lightbox="abc"><img src="20210502_011.JPG" alt="サンプル画像" width="300" /></a>
 
-<h3><span class="white">東海林の頭が切れるな〜と思ったら、スマホが縦？！</span></h3>
+<h3><span class="white">東海林のアゴが切れるな〜と思ったら、スマホが縦？！</span></h3>
 <a href="20210502_012.JPG" data-lightbox="abc"><img src="20210502_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_013.JPG" data-lightbox="abc"><img src="20210502_013.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_014.JPG" data-lightbox="abc"><img src="20210502_014.JPG" alt="サンプル画像" width="300" /></a>
@@ -117,8 +117,8 @@ body::before {
 <a href="20210502_025.JPG" data-lightbox="abc"><img src="20210502_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_026.JPG" data-lightbox="abc"><img src="20210502_026.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_027.JPG" data-lightbox="abc"><img src="20210502_027.JPG" alt="サンプル画像" width="300" /></a>
-<a href="20210502_028.JPG" data-lightbox="abc"><img src="20210502_028.JPG" alt="サンプル画像" width="300" /></a>
-<a href="20210502_029.JPG" data-lightbox="abc"><img src="20210502_029.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20210502_028.JPG" data-lightbox="abc"><img src="20210502_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210502_029.JPG" data-lightbox="abc"><img src="20210502_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_030.jpg" data-lightbox="abc"><img src="20210502_030.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_031.jpg" data-lightbox="abc"><img src="20210502_031.JPG" alt="サンプル画像" width="300" /></a>
 <h3><span class="white">25:08終了〜、次回は暑気払い飲み会の予定。最終メンバーは貴志、イチロー、てっつぁん、ムッチーでした！</span></h3>
