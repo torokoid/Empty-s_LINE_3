@@ -77,7 +77,8 @@ body::before {
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年5月2日、LINEで5月連休飲み会!!!</marquee></span></h2>
 
-<h3><span class="white">今回は*＊名参加。北端・栃木〜西端・岡山でした！</span></h3>
+<h3><span class="white">今回は１０名参加。北端・栃木〜西端・岡山でした！</span></h3>
+<a href="20210502_000.JPG" data-lightbox="abc"><img src="20210502_000.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_001.JPG" data-lightbox="abc"><img src="20210502_001.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_002.JPG" data-lightbox="abc"><img src="20210502_002.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_003.JPG" data-lightbox="abc"><img src="20210502_003.JPG" alt="サンプル画像" width="300" /></a>
