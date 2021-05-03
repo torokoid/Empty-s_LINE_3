@@ -110,7 +110,8 @@ body::before {
 <h3><span class="white">貴志の部屋、初公開。</span></h3>
 <a href="20210502_020.JPG" data-lightbox="abc"><img src="20210502_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_021.JPG" data-lightbox="abc"><img src="20210502_021.JPG" alt="サンプル画像" width="300" /></a>
-<a href="20210502_022.JPG" data-lightbox="abc"><img src="20210502_022.JPG" alt="サンプル画像" width="300" /></a>
+<h3><span class="white">貴志ご近所のアメ車。</span></h3>
+<a href="20210502_022.JPG" data-lightbox="abc"><img src="20210502_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_023.JPG" data-lightbox="abc"><img src="20210502_023.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_024.JPG" data-lightbox="abc"><img src="20210502_024.JPG" alt="サンプル画像" width="300" /></a>
 <h3><span class="white">孫写真です。</span></h3>
@@ -121,7 +122,7 @@ body::before {
 <a href="20210502_029.JPG" data-lightbox="abc"><img src="20210502_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210502_030.jpg" data-lightbox="abc"><img src="20210502_030.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_031.jpg" data-lightbox="abc"><img src="20210502_031.JPG" alt="サンプル画像" width="300" /></a>
-<h3><span class="white">25:08終了〜、次回は暑気払い飲み会の予定。最終メンバーは貴志、イチロー、てっつぁん、ムッチーでした！</span></h3>
+<h3><span class="white">25:08終了〜最終メンバーは貴志、イチロー、てっつぁん、ムッチーでした！ 次回は暑気払い飲み会の予定。</span></h3>
 
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年4月3日、LINEでお花見会!!!</marquee></span></h2>
