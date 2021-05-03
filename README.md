@@ -97,6 +97,8 @@ body::before {
 <a href="20210502_016.JPG" data-lightbox="abc"><img src="20210502_016.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_017.JPG" data-lightbox="abc"><img src="20210502_017.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_018.JPG" data-lightbox="abc"><img src="20210502_018.JPG" alt="サンプル画像" width="300" /></a>
+
+<h3><span class="white">以下、幾つか動画！</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rnth7cnrB50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Evuf6HYYls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QInKaSSf1RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -115,7 +117,7 @@ body::before {
 <a href="20210502_029.JPG" data-lightbox="abc"><img src="20210502_029.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_030.jpg" data-lightbox="abc"><img src="20210502_030.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_031.jpg" data-lightbox="abc"><img src="20210502_031.JPG" alt="サンプル画像" width="300" /></a>
-<h3><span class="white">25:08終了〜最終メンバーは貴志、イチロー、てっつぁん、ムッチーでした！</span></h3>
+<h3><span class="white">25:08終了〜、次回は暑気払い飲み会の予定。最終メンバーは貴志、イチロー、てっつぁん、ムッチーでした！</span></h3>
 
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年4月3日、LINEでお花見会!!!</marquee></span></h2>
