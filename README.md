@@ -128,6 +128,7 @@ body::before {
 <a href="20210502_030.jpg" data-lightbox="abc"><img src="20210502_030.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20210502_031.jpg" data-lightbox="abc"><img src="20210502_031.JPG" alt="サンプル画像" width="300" /></a>
 <h3><span class="white">以下、終了間際の動画！</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8g_O2VwSeT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
