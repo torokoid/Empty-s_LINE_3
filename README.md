@@ -86,12 +86,14 @@ body::before {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r4Ew5vgPTxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<h3><span class="white">東京オリンピックのTV画面を背景にしてLINEで観戦！！</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-igcRd8VWT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 
-<h3><span class="white">ワクチンん接種でおねむの東海林と、早起きまたさんが離脱？！</span></h3>
+<h3><span class="white">ワクチンん接種でおねむの東海林と、早起きまたさんが離脱！！</span></h3>
 <a href="20210724_004.png" data-lightbox="abc"><img src="20210724_004.png" alt="サンプル画像" width="500" /></a>
 	<br>
+<h3><span class="white">ちょっと早めの21:55終了でした！</span></h3>
 <a href="20210724_002.png" data-lightbox="abc"><img src="20210724_002.png" alt="サンプル画像" width="300" /></a>
 <a href="20210724_003.png" data-lightbox="abc"><img src="20210724_003.png" alt="サンプル画像" width="300" /></a>
 
