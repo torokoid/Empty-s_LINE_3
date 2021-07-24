@@ -80,6 +80,17 @@ body::before {
 <h3><span class="white">今回は8名+1匹参加。北端・栃木〜西端・岡山でした！</span></h3>
 <a href="20210724_001.png" data-lightbox="abc"><img src="20210724_001.png" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vhrmlw3jYEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/899IFeKjon0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4Ew5vgPTxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-igcRd8VWT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<a href="20210724_002.png" data-lightbox="abc"><img src="20210724_002.png" alt="サンプル画像" width="300" /></a>
+<a href="20210724_003.png" data-lightbox="abc"><img src="20210724_003.png" alt="サンプル画像" width="300" /></a>
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年5月2日、LINEで5月連休飲み会!!!</marquee></span></h2>
 
 <h3><span class="white">今回は１０名参加。北端・栃木〜西端・岡山でした！</span></h3>
