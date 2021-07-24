@@ -75,6 +75,11 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2021年7月24日、LINEで暑気払い飲み会!!!</marquee></span></h2>
+
+<h3><span class="white">今回は8名+1匹参加。北端・栃木〜西端・岡山でした！</span></h3>
+<a href="20210724_001.png" data-lightbox="abc"><img src="20210724_001.png" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年5月2日、LINEで5月連休飲み会!!!</marquee></span></h2>
 
 <h3><span class="white">今回は１０名参加。北端・栃木〜西端・岡山でした！</span></h3>
