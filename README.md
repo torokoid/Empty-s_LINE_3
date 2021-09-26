@@ -74,6 +74,17 @@ body::before {
 <p align="left"> <img src="qr___.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
+	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2021年9月25日、LINEで晩夏~初秋飲み会!!!</marquee></span></h2>
+
+<h3><span class="white">今回6名参加。北端・盛岡〜西端・岡山でした！</span></h3>
+<a href="20210925_000.png" data-lightbox="abc"><img src="20210925_000.png" alt="サンプル画像" width="900" /></a>
+<a href="20210925_001.JPG" data-lightbox="abc"><img src="20210925_001.JPG" alt="サンプル画像" width="900" /></a>
+
+
+	
+	
+<br><br><br><br>
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2021年7月24日、LINEで暑気払い飲み会!!!</marquee></span></h2>
 
