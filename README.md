@@ -80,9 +80,13 @@ body::before {
 <h3><span class="white">今回6名参加。北端・盛岡〜西端・岡山でした！</span></h3>
 <a href="20210925_000.png" data-lightbox="abc"><img src="20210925_000.png" alt="サンプル画像" width="900" /></a>
 <a href="20210925_001.JPG" data-lightbox="abc"><img src="20210925_001.JPG" alt="サンプル画像" width="900" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tRU517jZ5cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="20210925_002.JPG" data-lightbox="abc"><img src="20210925_002.JPG" alt="サンプル画像" width="900" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PayBluoioOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PnMnK4Kken0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_uSUJPWpFAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-	
 	
 <br><br><br><br>
 
